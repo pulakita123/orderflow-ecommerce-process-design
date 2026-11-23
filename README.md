@@ -1,4 +1,4 @@
-# E-Commerce Order Management & Checkout System
+# OrderFlow: E-Commerce Operations & Process Design
 
 A Business Analysis portfolio case study focused on improving the customer journey from product selection to checkout, order tracking and returns.
 
