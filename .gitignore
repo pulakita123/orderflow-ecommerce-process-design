@@ -1,0 +1,18 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Office temporary and lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary exports
+*.tmp
+*.bak
+*.log
