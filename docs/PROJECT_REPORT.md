@@ -1,4 +1,4 @@
-# Project Report: E-Commerce Order Management & Checkout System
+# OrderFlow: E-Commerce Operations & Process Design — Project Report
 
 ## 1. Introduction
 For this project, I worked through a Business Analyst case study based on a web-based e-commerce order-management system. I wanted to understand how the customer experience before and after placing an order could be translated into clear business and system requirements.
